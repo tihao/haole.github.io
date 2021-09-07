@@ -1,4 +1,10 @@
-
+fetch("./image.json")
+    .then(function(resp) {
+        return resp.json();
+    })
+    .then(function(data) {
+        document.getElementById('image-src').innerHTML += "<img src=\"" + data.image + "\"/>"
+    })
 
 function result(event) {
     var x = event.keyCode;
