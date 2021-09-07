@@ -13,11 +13,13 @@ EDU  - Education
 SOC  - Display my social link
 CLS  - Clear the screen
 ```
-#P ython version
+# Python version
 I also create my terminal using python. To run the website, you must install Flask and run file main.py
 
 # File included
+```
 image.json
 index.html
 script.js
 styles.css
+```
