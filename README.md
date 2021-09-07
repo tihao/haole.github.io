@@ -2,16 +2,17 @@
 I have build my portfolio website using html, css that display my avatar, my name, social media link and create a simple terminal using javascript
 
 # URL
-https://tihao.github.io/portfolio-website
+This is my portfolio website [check it out](https://tihao.github.io/portfolio-website)
 
 # Terminal
 Command:
+```
 HELP - Specific command
 BIO  - Biographical profile of me
 EDU  - Education
 SOC  - Display my social link
 CLS  - Clear the screen
-
+```
 #P ython version
 I also create my terminal using python. To run the website, you must install Flask and run file main.py
 
